@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning how to stay invisible in plain sight (aka advanced pen testing and threat hunting).
 - 💞️ I’m looking to collaborate on projects that need a mix of stealth, creativity, and a Kali Linux toolkit.
 - 📫 How to reach me: [Your Preferred Contact] — if you know where to look 😉
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: I run Kali as my daily driver...and I still sleep with one eye open.
+- 😄 Pronouns: [HolyNun]
+- ⚡ Fun fact: I still sleep with one eye open.
 
 <!---
 pcbot1759/pcbot1759 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
